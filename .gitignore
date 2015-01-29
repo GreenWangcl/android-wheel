@@ -1,0 +1,12 @@
+# Android gengrated
+bin
+gen
+gen*
+
+#Eclipse
+.project
+.classpath
+.settings
+
+# OSX
+.DS_Store
